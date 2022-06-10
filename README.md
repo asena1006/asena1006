@@ -4,14 +4,33 @@
 
 :star: 기술스택:
 <br><br>
-![HTML](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+프론트 :
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-A566FF?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
-:star: Here are some projects that I'm working on:
-:page_with_curl: I'm currently learning:
+백엔드 :
+![Python](https://img.shields.io/badge/Python-%2300ADD8.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-22741C?style=for-the-badge&logo=Django&logoColor=green)
+![Docker](https://img.shields.io/badge/Docker-6799FF?style=for-the-badge&logo=Docker&logoColor=blue)
+![Nginx](https://img.shields.io/badge/Nginx-22741C?style=for-the-badge&logo=Nginx&logoColor=green)
+![Aws](https://img.shields.io/badge/AWS-FAECC5?style=for-the-badge&logo=AmazonAWS&logoColor=orange)
+<br><br>
 
-- [Nekoya](https://github.com/Nekoya-Site)
+
+:page_with_curl: 배우는 스택:
+<br><br>
+프론트 :
+![Flutter](https://img.shields.io/badge/-Flutter-B2CCFF?style=for-the-badge&logo=Flutter&logoColor=black)
+
+벡엔드 :
+![DjangoRestAPI](https://img.shields.io/badge/DjangoRestAPI-EAEAEA?style=for-the-badge&logo=Django&logoColor=red)
+![Python](https://img.shields.io/badge/Python-%2300ADD8.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6799FF?style=for-the-badge&logo=Docker&logoColor=blue)
+![Nginx](https://img.shields.io/badge/Nginx-22741C?style=for-the-badge&logo=Nginx&logoColor=green)
+![Aws](https://img.shields.io/badge/AWS-FAECC5?style=for-the-badge&logo=AmazonAWS&logoColor=orange)
+
+
+<br><br>
+:star: 사이드 프로젝트:
